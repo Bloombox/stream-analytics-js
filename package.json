@@ -29,7 +29,7 @@
   "dependencies": {
     "browser-request": "git://github.com/matthisk/browser-request",
     "json-loader": "^0.5.3",
-    "request": "2.81.0",
+    "request": "2.88.0",
     "validate.js": "^0.9.0"
   },
   "browser": {
